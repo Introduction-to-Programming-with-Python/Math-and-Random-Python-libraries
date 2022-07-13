@@ -1,6 +1,6 @@
 # Math and Random libraries
 
-This repository contains applications of the [Math](https://docs.python.org/3/library/math.html) and [Random](https://docs.python.org/3/library/random.html) libraries.
+This repository contains applications of the [Math](https://docs.python.org/3/library/math.html) and [Random](https://docs.python.org/3/library/random.html) Python libraries.
 
 ## Respository structure
 
